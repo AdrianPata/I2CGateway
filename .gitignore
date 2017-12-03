@@ -2,6 +2,6 @@ build
 debug
 dist
 nbproject/private
-Testing/*.workspace
-Testing/*.pdsbak
-Testing/*.bak
+*.workspace
+*.pdsbak
+*.bak
